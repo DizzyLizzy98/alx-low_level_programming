@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
-* main - check the code
+* main-Prints the last digit of a number
 *
-* Return: Always 0.
+* Return: 0
 */
 
 int main(void)
